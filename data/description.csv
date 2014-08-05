@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
-不燃物,,,,#733b96
-紙類・布類,,,,#77ae1f
-可燃物,,,,#ea3b13
-びん・かん・ペットボトル,,,,#2dc7aa
-プラスチック,,,,#000099
+不燃物,,,img/hunenn.svg,#733b96
+紙類・布類,,,img/kami.svg,#77ae1f
+可燃物,,,img/kanenn.svg,#ea3b13
+びん・かん・ペットボトル,,,img/binn.svg,#2dc7aa
+プラスチック,,,img/pura.svg,#000099
